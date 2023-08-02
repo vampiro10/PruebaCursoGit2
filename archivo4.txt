@@ -1,9 +1,2 @@
 linea1
-<<<<<<< HEAD
 linea2
-linea3
-linea4
-linea5
-=======
-linea2
->>>>>>> parent of d5717e1 (Agregando linea 3)
